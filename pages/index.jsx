@@ -26,7 +26,7 @@ export default function Home() {
             
                 </div>
                 <p className="text-white/50 text-md mt-3">
-Shaper.
+Herzaman 7/24 aktiflik, sunucu, moderasyon, taslak kaydetme gibi tüm kolaylaştırma otomasyon komutları.
                 </p>
               </div>
               <div className={`order-first lg:order-last flex-shrink-0 relative w-[160px] h-[160px] rounded-full pulse-avatar-online `}>
